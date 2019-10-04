@@ -1,6 +1,6 @@
 # DijkstraC
 
-Implementação do Método de Dijkstra em C++, com interface para visualização de resultados.
+Implementação do Método de Dijkstra em C++, com interface para visualização do menor caminho entre duas arestas, e distâncias aos vértices.
 
 ## Getting Started
 
